@@ -1,0 +1,13 @@
+body {
+    font-family: 'Overpass', sans-serif;
+}
+
+
+.box {
+    background-color: #0D0221;
+}
+
+.title {
+    font-size: 1.5rem;
+    color: #333;
+}
